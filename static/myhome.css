@@ -1,0 +1,44 @@
+input[type="submit"] {
+    display: block;
+    margin: auto;
+    width: 200px;
+    padding: 15px;
+    border: none;
+    border-radius: 10px;
+    background-color: darkcyan;
+    color: white;
+    cursor: pointer;
+  }
+
+  body {
+    background-image: url(home.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+
+  main {
+    text-align: center;
+    padding: 60px;
+    padding-bottom: 150px;
+  }
+
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+  }
+
+  p {
+    font-size: 20px;
+    color: rgb(218, 213, 213);
+  }
+
+  h3 {
+    font-size: 25px;
+    color: rgb(224, 221, 221);
+  }
+
+  h2 {
+    font-size: 30px;
+    color: rgb(218, 216, 216);
+    padding: 10px;
+  }
